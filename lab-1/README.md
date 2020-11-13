@@ -1,3 +1,3 @@
 # itacademy.java
 # Java Labs
-by Ivanov I.I.
+Lab-1 by Ivanov I.I.
