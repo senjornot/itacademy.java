@@ -1,9 +1,5 @@
-package lab-2-2.tm;
+package main.java.lab.App;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )

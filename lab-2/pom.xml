@@ -4,11 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>lab-2-2.tm</groupId>
-  <artifactId>lab-2</artifactId>
+  <groupId>ru.lab2</groupId>
+  <artifactId>lab2</artifactId>
   <version>1.0.0</version>
 
-  <name>lab-2</name>
+  <name>lab2</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -51,14 +51,6 @@
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
           <version>3.0.2</version>
-          <configuration>
-                  <archive>
-                          <manifest>
-                            <addClasspath>true</addClasspath>
-                            <mainClass>lab-2-2.tm.App</mainClass>
-                          </manifest>>
-                  </archive>>
-          </configuration>
         </plugin>
         <plugin>
           <artifactId>maven-install-plugin</artifactId>
